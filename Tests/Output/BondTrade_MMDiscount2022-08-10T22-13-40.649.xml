@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CalypsoUploadDocument UploadDate="2022-08-10T22:13:40.650" ClientCode="INDI" Version="1"><CalypsoTrade>
+    <ExternalReference>FIT:20220707:14798:7:675</ExternalReference>
+    <TradeId xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Action>NEW</Action>
+    <TradeCounterParty>ACCESS BANK PLC</TradeCounterParty>
+    <TradeBook>FVTPL.TBill</TradeBook>
+    <TradeBundleOneMsg>false</TradeBundleOneMsg>
+    <TradeEventsInSameBundle>false</TradeEventsInSameBundle>
+    <TradeCurrency>NGN</TradeCurrency>
+    <TradeSettlementCurrency>NGN</TradeSettlementCurrency>
+    <TradeNotional>500000000.</TradeNotional>
+    <BuySell>SELL</BuySell>
+    <TradeDateTime>2022-07-07</TradeDateTime>
+    <TradeSettleDate>2022-07-13</TradeSettleDate>
+    <TraderName>NONE</TraderName>
+    <Comment></Comment>
+    <ProductType>Bond</ProductType>
+    <ProductSubType xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Product>
+        <Bond>
+            <ProductCodeType>BB_UNIQUE</ProductCodeType>
+            <ProductCodeValue>BT1776330</ProductCodeValue>
+            <NegotiatedPriceType>Discount</NegotiatedPriceType>
+            <NegotiatedPrice>.0000</NegotiatedPrice>
+            <Quantity>500,000,000.</Quantity>
+            <FxRate xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </Bond>
+    </Product>
+    <TradeKeywords>
+        <Keyword>
+            <KeywordName>TradeSource</KeywordName>
+            <KeywordValue>Bloomberg</KeywordValue>
+        </Keyword>
+    </TradeKeywords>
+</CalypsoTrade><CalypsoTrade>
+    <ExternalReference>FIT:20220706:9718:7:924</ExternalReference>
+    <TradeId xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Action>NEW</Action>
+    <TradeCounterParty>STERLING BANK PLC</TradeCounterParty>
+    <TradeBook>FVTPL.TBill</TradeBook>
+    <TradeBundleOneMsg>false</TradeBundleOneMsg>
+    <TradeEventsInSameBundle>false</TradeEventsInSameBundle>
+    <TradeCurrency>NGN</TradeCurrency>
+    <TradeSettlementCurrency>NGN</TradeSettlementCurrency>
+    <TradeNotional>300000000.</TradeNotional>
+    <BuySell>SELL</BuySell>
+    <TradeDateTime>2022-07-06</TradeDateTime>
+    <TradeSettleDate>2022-07-07</TradeSettleDate>
+    <TraderName>NONE</TraderName>
+    <Comment></Comment>
+    <ProductType>Bond</ProductType>
+    <ProductSubType xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Product>
+        <Bond>
+            <ProductCodeType>ISIN</ProductCodeType>
+            <ProductCodeValue>NGFG182042S5</ProductCodeValue>
+            <NegotiatedPriceType>Discount</NegotiatedPriceType>
+            <NegotiatedPrice>.0000</NegotiatedPrice>
+            <Quantity>300,000,000.</Quantity>
+            <FxRate xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </Bond>
+    </Product>
+    <TradeKeywords>
+        <Keyword>
+            <KeywordName>TradeSource</KeywordName>
+            <KeywordValue>Bloomberg</KeywordValue>
+        </Keyword>
+    </TradeKeywords>
+</CalypsoTrade><CalypsoTrade>
+    <ExternalReference>FIT:20220705:14798:7:1026</ExternalReference>
+    <TradeId xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Action>NEW</Action>
+    <TradeCounterParty>ACCESS BANK PLC</TradeCounterParty>
+    <TradeBook>FVTPL.TBill</TradeBook>
+    <TradeBundleOneMsg>false</TradeBundleOneMsg>
+    <TradeEventsInSameBundle>false</TradeEventsInSameBundle>
+    <TradeCurrency>NGN</TradeCurrency>
+    <TradeSettlementCurrency>NGN</TradeSettlementCurrency>
+    <TradeNotional>400000000.</TradeNotional>
+    <BuySell>SELL</BuySell>
+    <TradeDateTime>2022-07-05</TradeDateTime>
+    <TradeSettleDate>2022-07-06</TradeSettleDate>
+    <TraderName>NONE</TraderName>
+    <Comment></Comment>
+    <ProductType>Bond</ProductType>
+    <ProductSubType xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Product>
+        <Bond>
+            <ProductCodeType>ISIN</ProductCodeType>
+            <ProductCodeValue>NGFG182042S5</ProductCodeValue>
+            <NegotiatedPriceType>Discount</NegotiatedPriceType>
+            <NegotiatedPrice>.0000</NegotiatedPrice>
+            <Quantity>400,000,000.</Quantity>
+            <FxRate xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </Bond>
+    </Product>
+    <TradeKeywords>
+        <Keyword>
+            <KeywordName>TradeSource</KeywordName>
+            <KeywordValue>Bloomberg</KeywordValue>
+        </Keyword>
+    </TradeKeywords>
+</CalypsoTrade><CalypsoTrade>
+    <ExternalReference>FIT:20220704:14798:7:647</ExternalReference>
+    <TradeId xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Action>NEW</Action>
+    <TradeCounterParty>KEYSTONE BANK LIMITED</TradeCounterParty>
+    <TradeBook>FVTPL.TBill</TradeBook>
+    <TradeBundleOneMsg>false</TradeBundleOneMsg>
+    <TradeEventsInSameBundle>false</TradeEventsInSameBundle>
+    <TradeCurrency>NGN</TradeCurrency>
+    <TradeSettlementCurrency>NGN</TradeSettlementCurrency>
+    <TradeNotional>100000000.</TradeNotional>
+    <BuySell>BUY</BuySell>
+    <TradeDateTime>2022-07-04</TradeDateTime>
+    <TradeSettleDate>2022-07-05</TradeSettleDate>
+    <TraderName>NONE</TraderName>
+    <Comment></Comment>
+    <ProductType>Bond</ProductType>
+    <ProductSubType xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Product>
+        <Bond>
+            <ProductCodeType>ISIN</ProductCodeType>
+            <ProductCodeValue>NGFG182042S5</ProductCodeValue>
+            <NegotiatedPriceType>Discount</NegotiatedPriceType>
+            <NegotiatedPrice>.0000</NegotiatedPrice>
+            <Quantity>100,000,000.</Quantity>
+            <FxRate xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </Bond>
+    </Product>
+    <TradeKeywords>
+        <Keyword>
+            <KeywordName>TradeSource</KeywordName>
+            <KeywordValue>Bloomberg</KeywordValue>
+        </Keyword>
+    </TradeKeywords>
+</CalypsoTrade><CalypsoTrade>
+    <ExternalReference>FIT:20220704:9718:7:672</ExternalReference>
+    <TradeId xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Action>NEW</Action>
+    <TradeCounterParty>STERLING BANK PLC</TradeCounterParty>
+    <TradeBook>FVTPL.TBill</TradeBook>
+    <TradeBundleOneMsg>false</TradeBundleOneMsg>
+    <TradeEventsInSameBundle>false</TradeEventsInSameBundle>
+    <TradeCurrency>NGN</TradeCurrency>
+    <TradeSettlementCurrency>NGN</TradeSettlementCurrency>
+    <TradeNotional>200000000.</TradeNotional>
+    <BuySell>BUY</BuySell>
+    <TradeDateTime>2022-07-04</TradeDateTime>
+    <TradeSettleDate>2022-07-06</TradeSettleDate>
+    <TraderName>NONE</TraderName>
+    <Comment></Comment>
+    <ProductType>Bond</ProductType>
+    <ProductSubType xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Product>
+        <Bond>
+            <ProductCodeType>ISIN</ProductCodeType>
+            <ProductCodeValue>NGFG182042S5</ProductCodeValue>
+            <NegotiatedPriceType>Discount</NegotiatedPriceType>
+            <NegotiatedPrice>.0000</NegotiatedPrice>
+            <Quantity>200,000,000.</Quantity>
+            <FxRate xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </Bond>
+    </Product>
+    <TradeKeywords>
+        <Keyword>
+            <KeywordName>TradeSource</KeywordName>
+            <KeywordValue>Bloomberg</KeywordValue>
+        </Keyword>
+    </TradeKeywords>
+</CalypsoTrade><CalypsoTrade>
+    <ExternalReference>FIT:20220704:9718:7:671</ExternalReference>
+    <TradeId xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Action>NEW</Action>
+    <TradeCounterParty>STERLING BANK PLC</TradeCounterParty>
+    <TradeBook>FVTPL.TBill</TradeBook>
+    <TradeBundleOneMsg>false</TradeBundleOneMsg>
+    <TradeEventsInSameBundle>false</TradeEventsInSameBundle>
+    <TradeCurrency>NGN</TradeCurrency>
+    <TradeSettlementCurrency>NGN</TradeSettlementCurrency>
+    <TradeNotional>300000000.</TradeNotional>
+    <BuySell>BUY</BuySell>
+    <TradeDateTime>2022-07-04</TradeDateTime>
+    <TradeSettleDate>2022-07-06</TradeSettleDate>
+    <TraderName>NONE</TraderName>
+    <Comment></Comment>
+    <ProductType>Bond</ProductType>
+    <ProductSubType xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Product>
+        <Bond>
+            <ProductCodeType>ISIN</ProductCodeType>
+            <ProductCodeValue>NGFG182042S5</ProductCodeValue>
+            <NegotiatedPriceType>Discount</NegotiatedPriceType>
+            <NegotiatedPrice>.0000</NegotiatedPrice>
+            <Quantity>300,000,000.</Quantity>
+            <FxRate xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </Bond>
+    </Product>
+    <TradeKeywords>
+        <Keyword>
+            <KeywordName>TradeSource</KeywordName>
+            <KeywordValue>Bloomberg</KeywordValue>
+        </Keyword>
+    </TradeKeywords>
+</CalypsoTrade><CalypsoTrade>
+    <ExternalReference>FIT:20220705:14798:7:1022</ExternalReference>
+    <TradeId xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Action>NEW</Action>
+    <TradeCounterParty>ACCESS BANK PLC</TradeCounterParty>
+    <TradeBook>FVTPL.TBill</TradeBook>
+    <TradeBundleOneMsg>false</TradeBundleOneMsg>
+    <TradeEventsInSameBundle>false</TradeEventsInSameBundle>
+    <TradeCurrency>NGN</TradeCurrency>
+    <TradeSettlementCurrency>NGN</TradeSettlementCurrency>
+    <TradeNotional>100000000.</TradeNotional>
+    <BuySell>SELL</BuySell>
+    <TradeDateTime>2022-07-05</TradeDateTime>
+    <TradeSettleDate>2022-07-07</TradeSettleDate>
+    <TraderName>NONE</TraderName>
+    <Comment></Comment>
+    <ProductType>Bond</ProductType>
+    <ProductSubType xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Product>
+        <Bond>
+            <ProductCodeType>ISIN</ProductCodeType>
+            <ProductCodeValue>NGFG182042S5</ProductCodeValue>
+            <NegotiatedPriceType>Discount</NegotiatedPriceType>
+            <NegotiatedPrice>.0000</NegotiatedPrice>
+            <Quantity>100,000,000.</Quantity>
+            <FxRate xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </Bond>
+    </Product>
+    <TradeKeywords>
+        <Keyword>
+            <KeywordName>TradeSource</KeywordName>
+            <KeywordValue>Bloomberg</KeywordValue>
+        </Keyword>
+    </TradeKeywords>
+</CalypsoTrade><CalypsoTrade>
+    <ExternalReference>FIT:20220704:9340:7:703</ExternalReference>
+    <TradeId xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Action>NEW</Action>
+    <TradeCounterParty>KEYSTONE BANK LIMITED</TradeCounterParty>
+    <TradeBook>FVTPL.TBill</TradeBook>
+    <TradeBundleOneMsg>false</TradeBundleOneMsg>
+    <TradeEventsInSameBundle>false</TradeEventsInSameBundle>
+    <TradeCurrency>NGN</TradeCurrency>
+    <TradeSettlementCurrency>NGN</TradeSettlementCurrency>
+    <TradeNotional>100000000.</TradeNotional>
+    <BuySell>SELL</BuySell>
+    <TradeDateTime>2022-07-04</TradeDateTime>
+    <TradeSettleDate>2022-07-05</TradeSettleDate>
+    <TraderName>NONE</TraderName>
+    <Comment></Comment>
+    <ProductType>Bond</ProductType>
+    <ProductSubType xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Product>
+        <Bond>
+            <ProductCodeType>ISIN</ProductCodeType>
+            <ProductCodeValue>NGFG182042S5</ProductCodeValue>
+            <NegotiatedPriceType>Discount</NegotiatedPriceType>
+            <NegotiatedPrice>.0000</NegotiatedPrice>
+            <Quantity>100,000,000.</Quantity>
+            <FxRate xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </Bond>
+    </Product>
+    <TradeKeywords>
+        <Keyword>
+            <KeywordName>TradeSource</KeywordName>
+            <KeywordValue>Bloomberg</KeywordValue>
+        </Keyword>
+    </TradeKeywords>
+</CalypsoTrade><CalypsoTrade>
+    <ExternalReference>FIT:20220719:14798:7:5</ExternalReference>
+    <TradeId xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Action>NEW</Action>
+    <TradeCounterParty>STERLING BANK PLC</TradeCounterParty>
+    <TradeBook>FVTPL.TBill</TradeBook>
+    <TradeBundleOneMsg>false</TradeBundleOneMsg>
+    <TradeEventsInSameBundle>false</TradeEventsInSameBundle>
+    <TradeCurrency>NGN</TradeCurrency>
+    <TradeSettlementCurrency>NGN</TradeSettlementCurrency>
+    <TradeNotional>100000000.</TradeNotional>
+    <BuySell>BUY</BuySell>
+    <TradeDateTime>2022-07-19</TradeDateTime>
+    <TradeSettleDate>2022-07-20</TradeSettleDate>
+    <TraderName>NONE</TraderName>
+    <Comment></Comment>
+    <ProductType>Bond</ProductType>
+    <ProductSubType xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Product>
+        <Bond>
+            <ProductCodeType>ISIN</ProductCodeType>
+            <ProductCodeValue>NGFG152025S6</ProductCodeValue>
+            <NegotiatedPriceType>Discount</NegotiatedPriceType>
+            <NegotiatedPrice>.0000</NegotiatedPrice>
+            <Quantity>100,000,000.</Quantity>
+            <FxRate xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </Bond>
+    </Product>
+    <TradeKeywords>
+        <Keyword>
+            <KeywordName>TradeSource</KeywordName>
+            <KeywordValue>Bloomberg</KeywordValue>
+        </Keyword>
+    </TradeKeywords>
+</CalypsoTrade><CalypsoTrade>
+    <ExternalReference>FIT:20220714:14798:7:6</ExternalReference>
+    <TradeId xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Action>NEW</Action>
+    <TradeCounterParty>ACCESS BANK PLC</TradeCounterParty>
+    <TradeBook>FVTPL.TBill</TradeBook>
+    <TradeBundleOneMsg>false</TradeBundleOneMsg>
+    <TradeEventsInSameBundle>false</TradeEventsInSameBundle>
+    <TradeCurrency>NGN</TradeCurrency>
+    <TradeSettlementCurrency>NGN</TradeSettlementCurrency>
+    <TradeNotional>1000000000.</TradeNotional>
+    <BuySell>SELL</BuySell>
+    <TradeDateTime>2022-07-14</TradeDateTime>
+    <TradeSettleDate>2022-07-18</TradeSettleDate>
+    <TraderName>NONE</TraderName>
+    <Comment></Comment>
+    <ProductType>Bond</ProductType>
+    <ProductSubType xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Product>
+        <Bond>
+            <ProductCodeType>BB_UNIQUE</ProductCodeType>
+            <ProductCodeValue>BT4755505</ProductCodeValue>
+            <NegotiatedPriceType>Discount</NegotiatedPriceType>
+            <NegotiatedPrice>11.1000</NegotiatedPrice>
+            <Quantity>1,000,000,000.</Quantity>
+            <FxRate xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </Bond>
+    </Product>
+    <TradeKeywords>
+        <Keyword>
+            <KeywordName>TradeSource</KeywordName>
+            <KeywordValue>Bloomberg</KeywordValue>
+        </Keyword>
+    </TradeKeywords>
+</CalypsoTrade><CalypsoTrade>
+    <ExternalReference>FIT:20220714:9340:7:25</ExternalReference>
+    <TradeId xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Action>NEW</Action>
+    <TradeCounterParty>KEYSTONE BANK LIMITED</TradeCounterParty>
+    <TradeBook>FVTPL.TBill</TradeBook>
+    <TradeBundleOneMsg>false</TradeBundleOneMsg>
+    <TradeEventsInSameBundle>false</TradeEventsInSameBundle>
+    <TradeCurrency>NGN</TradeCurrency>
+    <TradeSettlementCurrency>NGN</TradeSettlementCurrency>
+    <TradeNotional>1000000000.</TradeNotional>
+    <BuySell>BUY</BuySell>
+    <TradeDateTime>2022-07-14</TradeDateTime>
+    <TradeSettleDate>2022-07-18</TradeSettleDate>
+    <TraderName>NONE</TraderName>
+    <Comment></Comment>
+    <ProductType>Bond</ProductType>
+    <ProductSubType xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Product>
+        <Bond>
+            <ProductCodeType>BB_UNIQUE</ProductCodeType>
+            <ProductCodeValue>BT4755505</ProductCodeValue>
+            <NegotiatedPriceType>Discount</NegotiatedPriceType>
+            <NegotiatedPrice>11.3500</NegotiatedPrice>
+            <Quantity>1,000,000,000.</Quantity>
+            <FxRate xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </Bond>
+    </Product>
+    <TradeKeywords>
+        <Keyword>
+            <KeywordName>TradeSource</KeywordName>
+            <KeywordValue>Bloomberg</KeywordValue>
+        </Keyword>
+    </TradeKeywords>
+</CalypsoTrade><CalypsoTrade>
+    <ExternalReference>FIT:20220720:14798:7:3</ExternalReference>
+    <TradeId xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Action>NEW</Action>
+    <TradeCounterParty>KEYSTONE BANK LIMITED</TradeCounterParty>
+    <TradeBook>FVTPL.TBill</TradeBook>
+    <TradeBundleOneMsg>false</TradeBundleOneMsg>
+    <TradeEventsInSameBundle>false</TradeEventsInSameBundle>
+    <TradeCurrency>NGN</TradeCurrency>
+    <TradeSettlementCurrency>NGN</TradeSettlementCurrency>
+    <TradeNotional>500000000.</TradeNotional>
+    <BuySell>SELL</BuySell>
+    <TradeDateTime>2022-07-20</TradeDateTime>
+    <TradeSettleDate>2022-07-25</TradeSettleDate>
+    <TraderName>NONE</TraderName>
+    <Comment></Comment>
+    <ProductType>Bond</ProductType>
+    <ProductSubType xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Product>
+        <Bond>
+            <ProductCodeType>BB_UNIQUE</ProductCodeType>
+            <ProductCodeValue>BW8487835</ProductCodeValue>
+            <NegotiatedPriceType>Discount</NegotiatedPriceType>
+            <NegotiatedPrice>9.7000</NegotiatedPrice>
+            <Quantity>500,000,000.</Quantity>
+            <FxRate xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </Bond>
+    </Product>
+    <TradeKeywords>
+        <Keyword>
+            <KeywordName>TradeSource</KeywordName>
+            <KeywordValue>Bloomberg</KeywordValue>
+        </Keyword>
+    </TradeKeywords>
+</CalypsoTrade><CalypsoTrade>
+    <ExternalReference>FIT:20220720:9340:7:7</ExternalReference>
+    <TradeId xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Action>NEW</Action>
+    <TradeCounterParty>KEYSTONE BANK LIMITED</TradeCounterParty>
+    <TradeBook>FVTPL.TBill</TradeBook>
+    <TradeBundleOneMsg>false</TradeBundleOneMsg>
+    <TradeEventsInSameBundle>false</TradeEventsInSameBundle>
+    <TradeCurrency>NGN</TradeCurrency>
+    <TradeSettlementCurrency>NGN</TradeSettlementCurrency>
+    <TradeNotional>500000000.</TradeNotional>
+    <BuySell>BUY</BuySell>
+    <TradeDateTime>2022-07-20</TradeDateTime>
+    <TradeSettleDate>2022-07-25</TradeSettleDate>
+    <TraderName>NONE</TraderName>
+    <Comment></Comment>
+    <ProductType>Bond</ProductType>
+    <ProductSubType xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Product>
+        <Bond>
+            <ProductCodeType>BB_UNIQUE</ProductCodeType>
+            <ProductCodeValue>BW8487835</ProductCodeValue>
+            <NegotiatedPriceType>Discount</NegotiatedPriceType>
+            <NegotiatedPrice>9.7800</NegotiatedPrice>
+            <Quantity>500,000,000.</Quantity>
+            <FxRate xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </Bond>
+    </Product>
+    <TradeKeywords>
+        <Keyword>
+            <KeywordName>TradeSource</KeywordName>
+            <KeywordValue>Bloomberg</KeywordValue>
+        </Keyword>
+    </TradeKeywords>
+</CalypsoTrade><CalypsoTrade>
+    <ExternalReference>FIT:20220708:14798:7:13</ExternalReference>
+    <TradeId xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Action>NEW</Action>
+    <TradeCounterParty>FIRST BANK OF NIGERIA PLC</TradeCounterParty>
+    <TradeBook>FVTPL.TBill</TradeBook>
+    <TradeBundleOneMsg>false</TradeBundleOneMsg>
+    <TradeEventsInSameBundle>false</TradeEventsInSameBundle>
+    <TradeCurrency>NGN</TradeCurrency>
+    <TradeSettlementCurrency>NGN</TradeSettlementCurrency>
+    <TradeNotional>250000000.</TradeNotional>
+    <BuySell>BUY</BuySell>
+    <TradeDateTime>2022-07-08</TradeDateTime>
+    <TradeSettleDate>2022-07-13</TradeSettleDate>
+    <TraderName>NONE</TraderName>
+    <Comment></Comment>
+    <ProductType>Bond</ProductType>
+    <ProductSubType xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Product>
+        <Bond>
+            <ProductCodeType>ISIN</ProductCodeType>
+            <ProductCodeValue>NGSB080822P3</ProductCodeValue>
+            <NegotiatedPriceType>Discount</NegotiatedPriceType>
+            <NegotiatedPrice>10.8500</NegotiatedPrice>
+            <Quantity>250,000,000.</Quantity>
+            <FxRate xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </Bond>
+    </Product>
+    <TradeKeywords>
+        <Keyword>
+            <KeywordName>TradeSource</KeywordName>
+            <KeywordValue>Bloomberg</KeywordValue>
+        </Keyword>
+    </TradeKeywords>
+</CalypsoTrade><CalypsoTrade>
+    <ExternalReference>FIT:20220705:7985:7:986</ExternalReference>
+    <TradeId xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Action>NEW</Action>
+    <TradeCounterParty>ACCESS BANK PLC</TradeCounterParty>
+    <TradeBook>FVTPL.TBill</TradeBook>
+    <TradeBundleOneMsg>false</TradeBundleOneMsg>
+    <TradeEventsInSameBundle>false</TradeEventsInSameBundle>
+    <TradeCurrency>NGN</TradeCurrency>
+    <TradeSettlementCurrency>NGN</TradeSettlementCurrency>
+    <TradeNotional>250000000.</TradeNotional>
+    <BuySell>BUY</BuySell>
+    <TradeDateTime>2022-07-05</TradeDateTime>
+    <TradeSettleDate>2022-07-07</TradeSettleDate>
+    <TraderName>NONE</TraderName>
+    <Comment></Comment>
+    <ProductType>Bond</ProductType>
+    <ProductSubType xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Product>
+        <Bond>
+            <ProductCodeType>ISIN</ProductCodeType>
+            <ProductCodeValue>NGSB281122V3</ProductCodeValue>
+            <NegotiatedPriceType>Discount</NegotiatedPriceType>
+            <NegotiatedPrice>8.8500</NegotiatedPrice>
+            <Quantity>250,000,000.</Quantity>
+            <FxRate xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </Bond>
+    </Product>
+    <TradeKeywords>
+        <Keyword>
+            <KeywordName>TradeSource</KeywordName>
+            <KeywordValue>Bloomberg</KeywordValue>
+        </Keyword>
+    </TradeKeywords>
+</CalypsoTrade><CalypsoTrade>
+    <ExternalReference>FIT:20220705:14798:7:496</ExternalReference>
+    <TradeId xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Action>NEW</Action>
+    <TradeCounterParty>FIRST BANK OF NIGERIA PLC</TradeCounterParty>
+    <TradeBook>FVTPL.TBill</TradeBook>
+    <TradeBundleOneMsg>false</TradeBundleOneMsg>
+    <TradeEventsInSameBundle>false</TradeEventsInSameBundle>
+    <TradeCurrency>NGN</TradeCurrency>
+    <TradeSettlementCurrency>NGN</TradeSettlementCurrency>
+    <TradeNotional>250000000.</TradeNotional>
+    <BuySell>BUY</BuySell>
+    <TradeDateTime>2022-07-05</TradeDateTime>
+    <TradeSettleDate>2022-07-07</TradeSettleDate>
+    <TraderName>NONE</TraderName>
+    <Comment></Comment>
+    <ProductType>Bond</ProductType>
+    <ProductSubType xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Product>
+        <Bond>
+            <ProductCodeType>ISIN</ProductCodeType>
+            <ProductCodeValue>NGSB281122V3</ProductCodeValue>
+            <NegotiatedPriceType>Discount</NegotiatedPriceType>
+            <NegotiatedPrice>8.8000</NegotiatedPrice>
+            <Quantity>250,000,000.</Quantity>
+            <FxRate xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </Bond>
+    </Product>
+    <TradeKeywords>
+        <Keyword>
+            <KeywordName>TradeSource</KeywordName>
+            <KeywordValue>Bloomberg</KeywordValue>
+        </Keyword>
+    </TradeKeywords>
+</CalypsoTrade><CalypsoTrade>
+    <ExternalReference>FIT:20220705:8142:7:359</ExternalReference>
+    <TradeId xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Action>NEW</Action>
+    <TradeCounterParty>UNITED BANK FOR AFRICA PLC</TradeCounterParty>
+    <TradeBook>FVTPL.TBill</TradeBook>
+    <TradeBundleOneMsg>false</TradeBundleOneMsg>
+    <TradeEventsInSameBundle>false</TradeEventsInSameBundle>
+    <TradeCurrency>NGN</TradeCurrency>
+    <TradeSettlementCurrency>NGN</TradeSettlementCurrency>
+    <TradeNotional>250000000.</TradeNotional>
+    <BuySell>SELL</BuySell>
+    <TradeDateTime>2022-07-05</TradeDateTime>
+    <TradeSettleDate>2022-07-07</TradeSettleDate>
+    <TraderName>NONE</TraderName>
+    <Comment></Comment>
+    <ProductType>Bond</ProductType>
+    <ProductSubType xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Product>
+        <Bond>
+            <ProductCodeType>ISIN</ProductCodeType>
+            <ProductCodeValue>NGSB281122V3</ProductCodeValue>
+            <NegotiatedPriceType>Discount</NegotiatedPriceType>
+            <NegotiatedPrice>8.8000</NegotiatedPrice>
+            <Quantity>250,000,000.</Quantity>
+            <FxRate xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </Bond>
+    </Product>
+    <TradeKeywords>
+        <Keyword>
+            <KeywordName>TradeSource</KeywordName>
+            <KeywordValue>Bloomberg</KeywordValue>
+        </Keyword>
+    </TradeKeywords>
+</CalypsoTrade><CalypsoTrade>
+    <ExternalReference>FIT:20220705:8142:7:327</ExternalReference>
+    <TradeId xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Action>NEW</Action>
+    <TradeCounterParty>UNITED BANK FOR AFRICA PLC</TradeCounterParty>
+    <TradeBook>FVTPL.TBill</TradeBook>
+    <TradeBundleOneMsg>false</TradeBundleOneMsg>
+    <TradeEventsInSameBundle>false</TradeEventsInSameBundle>
+    <TradeCurrency>NGN</TradeCurrency>
+    <TradeSettlementCurrency>NGN</TradeSettlementCurrency>
+    <TradeNotional>250000000.</TradeNotional>
+    <BuySell>SELL</BuySell>
+    <TradeDateTime>2022-07-05</TradeDateTime>
+    <TradeSettleDate>2022-07-07</TradeSettleDate>
+    <TraderName>NONE</TraderName>
+    <Comment></Comment>
+    <ProductType>Bond</ProductType>
+    <ProductSubType xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Product>
+        <Bond>
+            <ProductCodeType>ISIN</ProductCodeType>
+            <ProductCodeValue>NGSB281122V3</ProductCodeValue>
+            <NegotiatedPriceType>Discount</NegotiatedPriceType>
+            <NegotiatedPrice>8.7000</NegotiatedPrice>
+            <Quantity>250,000,000.</Quantity>
+            <FxRate xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </Bond>
+    </Product>
+    <TradeKeywords>
+        <Keyword>
+            <KeywordName>TradeSource</KeywordName>
+            <KeywordValue>Bloomberg</KeywordValue>
+        </Keyword>
+    </TradeKeywords>
+</CalypsoTrade><CalypsoTrade>
+    <ExternalReference>FIT:20220705:14798:7:375</ExternalReference>
+    <TradeId xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Action>NEW</Action>
+    <TradeCounterParty>ACCESS BANK PLC</TradeCounterParty>
+    <TradeBook>FVTPL.TBill</TradeBook>
+    <TradeBundleOneMsg>false</TradeBundleOneMsg>
+    <TradeEventsInSameBundle>false</TradeEventsInSameBundle>
+    <TradeCurrency>NGN</TradeCurrency>
+    <TradeSettlementCurrency>NGN</TradeSettlementCurrency>
+    <TradeNotional>250000000.</TradeNotional>
+    <BuySell>BUY</BuySell>
+    <TradeDateTime>2022-07-05</TradeDateTime>
+    <TradeSettleDate>2022-07-07</TradeSettleDate>
+    <TraderName>NONE</TraderName>
+    <Comment></Comment>
+    <ProductType>Bond</ProductType>
+    <ProductSubType xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Product>
+        <Bond>
+            <ProductCodeType>ISIN</ProductCodeType>
+            <ProductCodeValue>NGSB281122V3</ProductCodeValue>
+            <NegotiatedPriceType>Discount</NegotiatedPriceType>
+            <NegotiatedPrice>8.7500</NegotiatedPrice>
+            <Quantity>250,000,000.</Quantity>
+            <FxRate xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </Bond>
+    </Product>
+    <TradeKeywords>
+        <Keyword>
+            <KeywordName>TradeSource</KeywordName>
+            <KeywordValue>Bloomberg</KeywordValue>
+        </Keyword>
+    </TradeKeywords>
+</CalypsoTrade><CalypsoTrade>
+    <ExternalReference>FIT:20220705:14798:7:370</ExternalReference>
+    <TradeId xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Action>NEW</Action>
+    <TradeCounterParty>STERLING BANK PLC</TradeCounterParty>
+    <TradeBook>FVTPL.TBill</TradeBook>
+    <TradeBundleOneMsg>false</TradeBundleOneMsg>
+    <TradeEventsInSameBundle>false</TradeEventsInSameBundle>
+    <TradeCurrency>NGN</TradeCurrency>
+    <TradeSettlementCurrency>NGN</TradeSettlementCurrency>
+    <TradeNotional>250000000.</TradeNotional>
+    <BuySell>SELL</BuySell>
+    <TradeDateTime>2022-07-05</TradeDateTime>
+    <TradeSettleDate>2022-07-07</TradeSettleDate>
+    <TraderName>NONE</TraderName>
+    <Comment></Comment>
+    <ProductType>Bond</ProductType>
+    <ProductSubType xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Product>
+        <Bond>
+            <ProductCodeType>ISIN</ProductCodeType>
+            <ProductCodeValue>NGSB281122V3</ProductCodeValue>
+            <NegotiatedPriceType>Discount</NegotiatedPriceType>
+            <NegotiatedPrice>8.6500</NegotiatedPrice>
+            <Quantity>250,000,000.</Quantity>
+            <FxRate xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </Bond>
+    </Product>
+    <TradeKeywords>
+        <Keyword>
+            <KeywordName>TradeSource</KeywordName>
+            <KeywordValue>Bloomberg</KeywordValue>
+        </Keyword>
+    </TradeKeywords>
+</CalypsoTrade><CalypsoTrade>
+    <ExternalReference>FIT:20220714:14798:7:5</ExternalReference>
+    <TradeId xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Action>NEW</Action>
+    <TradeCounterParty>ACCESS BANK PLC</TradeCounterParty>
+    <TradeBook>FVTPL.TBill</TradeBook>
+    <TradeBundleOneMsg>false</TradeBundleOneMsg>
+    <TradeEventsInSameBundle>false</TradeEventsInSameBundle>
+    <TradeCurrency>NGN</TradeCurrency>
+    <TradeSettlementCurrency>NGN</TradeSettlementCurrency>
+    <TradeNotional>1000000000.</TradeNotional>
+    <BuySell>SELL</BuySell>
+    <TradeDateTime>2022-07-14</TradeDateTime>
+    <TradeSettleDate>2022-07-18</TradeSettleDate>
+    <TraderName>NONE</TraderName>
+    <Comment></Comment>
+    <ProductType>Bond</ProductType>
+    <ProductSubType xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Product>
+        <Bond>
+            <ProductCodeType>BB_UNIQUE</ProductCodeType>
+            <ProductCodeValue>BT8028875</ProductCodeValue>
+            <NegotiatedPriceType>Discount</NegotiatedPriceType>
+            <NegotiatedPrice>10.4000</NegotiatedPrice>
+            <Quantity>1,000,000,000.</Quantity>
+            <FxRate xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </Bond>
+    </Product>
+    <TradeKeywords>
+        <Keyword>
+            <KeywordName>TradeSource</KeywordName>
+            <KeywordValue>Bloomberg</KeywordValue>
+        </Keyword>
+    </TradeKeywords>
+</CalypsoTrade><CalypsoTrade>
+    <ExternalReference>FIT:20220714:9340:7:22</ExternalReference>
+    <TradeId xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Action>NEW</Action>
+    <TradeCounterParty>KEYSTONE BANK LIMITED</TradeCounterParty>
+    <TradeBook>FVTPL.TBill</TradeBook>
+    <TradeBundleOneMsg>false</TradeBundleOneMsg>
+    <TradeEventsInSameBundle>false</TradeEventsInSameBundle>
+    <TradeCurrency>NGN</TradeCurrency>
+    <TradeSettlementCurrency>NGN</TradeSettlementCurrency>
+    <TradeNotional>1000000000.</TradeNotional>
+    <BuySell>BUY</BuySell>
+    <TradeDateTime>2022-07-14</TradeDateTime>
+    <TradeSettleDate>2022-07-18</TradeSettleDate>
+    <TraderName>NONE</TraderName>
+    <Comment></Comment>
+    <ProductType>Bond</ProductType>
+    <ProductSubType xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Product>
+        <Bond>
+            <ProductCodeType>BB_UNIQUE</ProductCodeType>
+            <ProductCodeValue>BT8028875</ProductCodeValue>
+            <NegotiatedPriceType>Discount</NegotiatedPriceType>
+            <NegotiatedPrice>11.0500</NegotiatedPrice>
+            <Quantity>1,000,000,000.</Quantity>
+            <FxRate xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </Bond>
+    </Product>
+    <TradeKeywords>
+        <Keyword>
+            <KeywordName>TradeSource</KeywordName>
+            <KeywordValue>Bloomberg</KeywordValue>
+        </Keyword>
+    </TradeKeywords>
+</CalypsoTrade><CalypsoTrade>
+    <ExternalReference>FIT:20220722:14798:7:130</ExternalReference>
+    <TradeId xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Action>NEW</Action>
+    <TradeCounterParty>FIRST CITY MONUMENT BANK PLC</TradeCounterParty>
+    <TradeBook>FVTPL.TBill</TradeBook>
+    <TradeBundleOneMsg>false</TradeBundleOneMsg>
+    <TradeEventsInSameBundle>false</TradeEventsInSameBundle>
+    <TradeCurrency>NGN</TradeCurrency>
+    <TradeSettlementCurrency>NGN</TradeSettlementCurrency>
+    <TradeNotional>1000000000.</TradeNotional>
+    <BuySell>BUY</BuySell>
+    <TradeDateTime>2022-07-22</TradeDateTime>
+    <TradeSettleDate>2022-07-25</TradeSettleDate>
+    <TraderName>NONE</TraderName>
+    <Comment></Comment>
+    <ProductType>Bond</ProductType>
+    <ProductSubType xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Product>
+        <Bond>
+            <ProductCodeType>BB_UNIQUE</ProductCodeType>
+            <ProductCodeValue>BX0822573</ProductCodeValue>
+            <NegotiatedPriceType>Discount</NegotiatedPriceType>
+            <NegotiatedPrice>6.7000</NegotiatedPrice>
+            <Quantity>1,000,000,000.</Quantity>
+            <FxRate xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </Bond>
+    </Product>
+    <TradeKeywords>
+        <Keyword>
+            <KeywordName>TradeSource</KeywordName>
+            <KeywordValue>Bloomberg</KeywordValue>
+        </Keyword>
+    </TradeKeywords>
+</CalypsoTrade><CalypsoTrade>
+    <ExternalReference>FIT:20220722:14798:7:129</ExternalReference>
+    <TradeId xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Action>NEW</Action>
+    <TradeCounterParty>KEYSTONE BANK LIMITED</TradeCounterParty>
+    <TradeBook>FVTPL.TBill</TradeBook>
+    <TradeBundleOneMsg>false</TradeBundleOneMsg>
+    <TradeEventsInSameBundle>false</TradeEventsInSameBundle>
+    <TradeCurrency>NGN</TradeCurrency>
+    <TradeSettlementCurrency>NGN</TradeSettlementCurrency>
+    <TradeNotional>1000000000.</TradeNotional>
+    <BuySell>SELL</BuySell>
+    <TradeDateTime>2022-07-22</TradeDateTime>
+    <TradeSettleDate>2022-07-25</TradeSettleDate>
+    <TraderName>NONE</TraderName>
+    <Comment></Comment>
+    <ProductType>Bond</ProductType>
+    <ProductSubType xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Product>
+        <Bond>
+            <ProductCodeType>BB_UNIQUE</ProductCodeType>
+            <ProductCodeValue>BX0822573</ProductCodeValue>
+            <NegotiatedPriceType>Discount</NegotiatedPriceType>
+            <NegotiatedPrice>6.6800</NegotiatedPrice>
+            <Quantity>1,000,000,000.</Quantity>
+            <FxRate xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </Bond>
+    </Product>
+    <TradeKeywords>
+        <Keyword>
+            <KeywordName>TradeSource</KeywordName>
+            <KeywordValue>Bloomberg</KeywordValue>
+        </Keyword>
+    </TradeKeywords>
+</CalypsoTrade><CalypsoTrade>
+    <ExternalReference>FIT:20220705:14798:7:895</ExternalReference>
+    <TradeId xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Action>NEW</Action>
+    <TradeCounterParty>PARALLEX BANK LIMITED</TradeCounterParty>
+    <TradeBook>FVTPL.TBill</TradeBook>
+    <TradeBundleOneMsg>false</TradeBundleOneMsg>
+    <TradeEventsInSameBundle>false</TradeEventsInSameBundle>
+    <TradeCurrency>NGN</TradeCurrency>
+    <TradeSettlementCurrency>NGN</TradeSettlementCurrency>
+    <TradeNotional>250000000.</TradeNotional>
+    <BuySell>SELL</BuySell>
+    <TradeDateTime>2022-07-05</TradeDateTime>
+    <TradeSettleDate>2022-07-07</TradeSettleDate>
+    <TraderName>NONE</TraderName>
+    <Comment></Comment>
+    <ProductType>Bond</ProductType>
+    <ProductSubType xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Product>
+        <Bond>
+            <ProductCodeType>ISIN</ProductCodeType>
+            <ProductCodeValue>NGT032411222</ProductCodeValue>
+            <NegotiatedPriceType>Discount</NegotiatedPriceType>
+            <NegotiatedPrice>8.5000</NegotiatedPrice>
+            <Quantity>250,000,000.</Quantity>
+            <FxRate xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </Bond>
+    </Product>
+    <TradeKeywords>
+        <Keyword>
+            <KeywordName>TradeSource</KeywordName>
+            <KeywordValue>Bloomberg</KeywordValue>
+        </Keyword>
+    </TradeKeywords>
+</CalypsoTrade><CalypsoTrade>
+    <ExternalReference>FIT:20220705:9718:7:779</ExternalReference>
+    <TradeId xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Action>NEW</Action>
+    <TradeCounterParty>STERLING BANK PLC</TradeCounterParty>
+    <TradeBook>FVTPL.TBill</TradeBook>
+    <TradeBundleOneMsg>false</TradeBundleOneMsg>
+    <TradeEventsInSameBundle>false</TradeEventsInSameBundle>
+    <TradeCurrency>NGN</TradeCurrency>
+    <TradeSettlementCurrency>NGN</TradeSettlementCurrency>
+    <TradeNotional>250000000.</TradeNotional>
+    <BuySell>BUY</BuySell>
+    <TradeDateTime>2022-07-05</TradeDateTime>
+    <TradeSettleDate>2022-07-07</TradeSettleDate>
+    <TraderName>NONE</TraderName>
+    <Comment></Comment>
+    <ProductType>Bond</ProductType>
+    <ProductSubType xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Product>
+        <Bond>
+            <ProductCodeType>ISIN</ProductCodeType>
+            <ProductCodeValue>NGT032411222</ProductCodeValue>
+            <NegotiatedPriceType>Discount</NegotiatedPriceType>
+            <NegotiatedPrice>8.5500</NegotiatedPrice>
+            <Quantity>250,000,000.</Quantity>
+            <FxRate xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </Bond>
+    </Product>
+    <TradeKeywords>
+        <Keyword>
+            <KeywordName>TradeSource</KeywordName>
+            <KeywordValue>Bloomberg</KeywordValue>
+        </Keyword>
+    </TradeKeywords>
+</CalypsoTrade></CalypsoUploadDocument>

@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Aug 13 19:30:06 WAT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0182-9878-7004-000015012448 
+on database directory memory:C:\Users\olatu\OneDrive\Documents\Calypso\Aryvert\17496969-6eb9-48d1-87bc-c8f5f0c9b49a with class loader sun.misc.Launcher$AppClassLoader@14dad5dc 
+Loaded from file:/C:/Users/olatu/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_45-b15
+user.dir=C:\Users\olatu\OneDrive\Documents\Calypso\Aryvert
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

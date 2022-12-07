@@ -1,0 +1,4 @@
+2022-08-11 06:32:38 INFO  FileManager:45 - \app\BloombergMiddleware\config\TBillMapping.csv (The system cannot find the path specified)
+2022-08-11 06:35:50 INFO  FileManager:39 - ::: TBillMapping.csv found :::
+2022-08-11 06:35:50 INFO  FileManager:45 - \app\BloombergMiddleware\config\TBillMapping.csv (The system cannot find the path specified)
+2022-08-11 06:35:50 INFO  CSVReader:72 - Empty Configuration file attached

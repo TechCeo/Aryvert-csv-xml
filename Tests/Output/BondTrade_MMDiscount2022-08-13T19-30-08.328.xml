@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CalypsoUploadDocument UploadDate="2022-08-13T19:30:08.330" ClientCode="INDI" Version="1"><CalypsoTrade>
+    <ExternalReference>FIT:20220707:14798:7:675</ExternalReference>
+    <TradeId xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Action>NEW</Action>
+    <TradeCounterParty>ACCESS BANK</TradeCounterParty>
+    <TradeBook>FVTPL.Bond</TradeBook>
+    <TradeBundleOneMsg>false</TradeBundleOneMsg>
+    <TradeEventsInSameBundle>false</TradeEventsInSameBundle>
+    <TradeCurrency>NGN</TradeCurrency>
+    <TradeSettlementCurrency>NGN</TradeSettlementCurrency>
+    <TradeNotional>500000000.00</TradeNotional>
+    <BuySell>SELL</BuySell>
+    <TradeDateTime>2022-07-07</TradeDateTime>
+    <TradeSettleDate>2022-07-13</TradeSettleDate>
+    <TraderName>NONE</TraderName>
+    <Comment></Comment>
+    <ProductType>Bond</ProductType>
+    <ProductSubType xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <Product>
+        <Bond>
+            <ProductCodeType>BB_UNIQUE</ProductCodeType>
+            <ProductCodeValue>BT1776330</ProductCodeValue>
+            <NegotiatedPriceType>CleanPrice</NegotiatedPriceType>
+            <NegotiatedPrice>101.61</NegotiatedPrice>
+            <Quantity>500,000,000.00</Quantity>
+            <FxRate xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        </Bond>
+    </Product>
+    <TradeKeywords>
+        <Keyword>
+            <KeywordName>TradeSource</KeywordName>
+            <KeywordValue>Bloomberg</KeywordValue>
+        </Keyword>
+    </TradeKeywords>
+</CalypsoTrade></CalypsoUploadDocument>

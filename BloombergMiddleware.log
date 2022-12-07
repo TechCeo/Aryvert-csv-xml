@@ -1,0 +1,4 @@
+2022-08-13 19:30:08 INFO  FileManager:39 - Mapping file : TBillMapping.csv found :::
+2022-08-13 19:30:08 INFO  FileManager:39 - Mapping file : BloombergCounterparty.csv found :::
+2022-08-13 19:30:08 INFO  AryvertStart:77 - :::: Picking files from directory ::::
+2022-08-13 19:30:08 INFO  CDUFUtil:118 - Finished processing file ...

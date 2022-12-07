@@ -1,0 +1,19 @@
+CalypsoField,BloombergField
+Action,Status
+TradeId,null
+ExternalRefId,ID
+Counterparty,"EBND Buyer,EBND Seller"
+Book,null
+Currency,null
+TradeSettlementCurrency,null
+ProductCodeType,null
+ProductCodeValue,"ISIN,MISX BBID"
+Nominal,Quantity
+BuySell,Side
+TradeDate,Trade Dt
+SettlementDate,SetDt
+NegotiatedPriceType,null
+NegotiatedPrice,"Price,DiscRate"
+TraderName,UserName
+SalesPerson,null
+Comment,Status
